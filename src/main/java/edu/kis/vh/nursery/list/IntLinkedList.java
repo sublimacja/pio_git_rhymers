@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery.list;
-
+//sprawdzenie przyciskow alt strzalka
 public class IntLinkedList {
 
     Node last;
